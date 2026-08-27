@@ -1,0 +1,15 @@
+/workspaces/MiPrimerRepoconPlatzi/bin/Debug/net10.0/MiPrimerRepoconPlatzi
+/workspaces/MiPrimerRepoconPlatzi/bin/Debug/net10.0/MiPrimerRepoconPlatzi.deps.json
+/workspaces/MiPrimerRepoconPlatzi/bin/Debug/net10.0/MiPrimerRepoconPlatzi.runtimeconfig.json
+/workspaces/MiPrimerRepoconPlatzi/bin/Debug/net10.0/MiPrimerRepoconPlatzi.dll
+/workspaces/MiPrimerRepoconPlatzi/bin/Debug/net10.0/MiPrimerRepoconPlatzi.pdb
+/workspaces/MiPrimerRepoconPlatzi/obj/Debug/net10.0/MiPrimerRepoconPlatzi.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/MiPrimerRepoconPlatzi/obj/Debug/net10.0/MiPrimerRepoconPlatzi.AssemblyInfoInputs.cache
+/workspaces/MiPrimerRepoconPlatzi/obj/Debug/net10.0/MiPrimerRepoconPlatzi.AssemblyInfo.cs
+/workspaces/MiPrimerRepoconPlatzi/obj/Debug/net10.0/MiPrimerRepoconPlatzi.csproj.CoreCompileInputs.cache
+/workspaces/MiPrimerRepoconPlatzi/obj/Debug/net10.0/MiPrimerRepoconPlatzi.sourcelink.json
+/workspaces/MiPrimerRepoconPlatzi/obj/Debug/net10.0/MiPrimerRepoconPlatzi.dll
+/workspaces/MiPrimerRepoconPlatzi/obj/Debug/net10.0/refint/MiPrimerRepoconPlatzi.dll
+/workspaces/MiPrimerRepoconPlatzi/obj/Debug/net10.0/MiPrimerRepoconPlatzi.pdb
+/workspaces/MiPrimerRepoconPlatzi/obj/Debug/net10.0/MiPrimerRepoconPlatzi.genruntimeconfig.cache
+/workspaces/MiPrimerRepoconPlatzi/obj/Debug/net10.0/ref/MiPrimerRepoconPlatzi.dll
